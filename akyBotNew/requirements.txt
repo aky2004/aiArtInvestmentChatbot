@@ -1,0 +1,8 @@
+requests==2.31.0
+python-dotenv==1.0.0
+streamlit==1.32.0
+pandas==2.2.0
+Pillow==10.2.0
+streamlit-option-menu==0.3.12
+streamlit-lottie==0.0.5
+altair==5.2.0 
