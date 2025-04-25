@@ -21,7 +21,7 @@ st.set_page_config(
 
 load_dotenv()
 
-GEMINI_API_KEY = "AIzaSyArozyI6wEfEpFRVPT-2UglYDb78maVkNE"
+GEMINI_API_KEY = "Your_API_Key"
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
 
 st.markdown("""
